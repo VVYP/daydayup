@@ -1,3 +1,8 @@
-{
-    
+@font-face{
+    font-family: 'LXGW';
+    src : url('../LXGWWenKaiMonoTC-Regular.ttf');
+}
+html{
+    font-family: 'LXGW';
+    font-size:30pt
 }
